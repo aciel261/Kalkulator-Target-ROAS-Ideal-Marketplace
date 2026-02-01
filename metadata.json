@@ -1,0 +1,5 @@
+{
+  "name": "ROAS Ideal Calculator",
+  "description": "A comprehensive calculator for Indonesian advertisers to determine break-even and ideal ROAS targets based on selling price, COGS (HPP), and admin fees.",
+  "requestFramePermissions": []
+}
